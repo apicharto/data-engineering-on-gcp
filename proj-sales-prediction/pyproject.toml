@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "proj-sales-prediction"
+version = "0.1.0"
+description = ""
+authors = ["apicharto <155867145+apicharto@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
