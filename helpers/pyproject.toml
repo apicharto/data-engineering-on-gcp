@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "07-real-world-capstone-project"
+name = "helpers"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
