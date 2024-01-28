@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smooth-command-410508",
+  "private_key_id": "7707a057d25f654a157f8d0ca618ea2a406949fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbdBIRqnehGMjq\nuFmBuN2evYCfCKvMAlEmJuoE5VdqCBjc7l3n68j4kZ/WSxYOaYs0T43k8FbhFUaw\nxakV7UJvXH1dPDFWwLHP6Y4UCWPDaTvS3JTolY9u6n9RL6vYyLqHFnV2FbXROLrd\nZ4Q9a/Dg1jGods38wz7jipgI7kcb7Wo3E0Iq5v05GtbeJE7QpuhsmMbJigjw2AJx\nHc+zCgvGxmdZh7XoGQK1H5QMfBI3NmXvfhRvx6fUoSez9hqKU3mKAhR1CGOAe1tu\nbRBmndupL4y1ksdB1XXtsHDOsO107rrUPMWCYUNHT4twjbfuz0EFy5M8U+u3o21X\nQ4rSanzJAgMBAAECggEADDsFUMe74BYWCILatjCb5V9xXiupC3crl6E+lKRFgWrP\nG+0K/cR10GipTFOl+IqoT/OJGHPOm7/IT0zM1iSBedxhPkN/CnM11b0SBorZbQgd\n5ewWPnorYsad7uPlw3C4eJPnWvvtxKnRPEqrI5My+wzk+psYcthc1migfYruGp+/\nvygM4oRuHf9mrdLuVFZQfxSzckpSruSOCrJk1P/LjJqDzms/oNbcWvwGUmE8RqgN\nl7Gfu4VqcEylXnoQ3rQmDph6e9xiypgGuvzRxlwZK1pyeNbBj5zfGU4aqgS23+c0\nDR24mXXQWy0EwlFReG8BWrezNgLlTJZ5aYWsxriAKQKBgQD7RcZj66Jt8FVSbSWr\nPwWGZajFc5Dc82EtEGZLPDGhLS0eEyXauiMPYhHvRaoj1ig6vwPCHXYnAp5A6AwB\n1zG9H9Gc6PdjanKCSwelVQqqH/nheQbsXvwyb+cpR63BnOcvJ+3u8xr2Z3oxVm1C\nnQQ539bChzN3iD8DAuFJ+jOd5QKBgQDflQrXaKIeeyoMMB6fsfdkzY5MnKyZ+si8\nsFerMiY2NzB5dzr9D7fWh1kbp3x7VexVVKDpJJMt7NB+6oNJZIaTZUfWCdCu2reO\nqvHbsGfObvz6qY3BIzrq9ONjw8DE+uSt9ZEgj5iY/eAUg+K5iJG+uxEZ5pErkvgy\nreGefaPVFQKBgBFlJjPapzcHMVDwf3AYf9BrD0EEHB4/txWAkiRZOXJYB0yStMcs\npaq19lnjL8ElXUmb2a3BjmFq+/uwVMx30liucDt1oVK/lsfQW+olNgTLC+iBEWqh\ntMHlH1KrRKsnqpWIJR+qss4mIb5ypkO7TQSYq2xyIaz/wKT7uQ7/BD3FAoGAUCaX\n+lzSMWcpzbC6ablc3NArwR8xaQnUSIBXDVIvDKSARisOBIZL+yYONbG3GGfXD0gF\nX07zTDVnEPh1FCxrag+Wzw45t1VFFGoHxh/ZNtHm8t0xqhk9F9muYqdcRcFDlXFB\nE5EmvUHVwMT+1FA3H07kdIqJZDuNqm1XQn/76XkCgYEAu/cDzcy+JwycjXX+msKt\nAOpeEtcr/1XL2ojW21+1kwM97c2zZq4+wHcx/UXxvQW1QaANaza5TzfnLiVI6Ugv\ntvdMj3xLY19GHwEn4c05LRvlNRrkXrQwGh7tRfhQTi+P7O4kw8Tj9jwwLK/dk933\nBItNbK8Zt66Mss95Sjei4Js=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pim-de-workshop-for-gcs-admin@smooth-command-410508.iam.gserviceaccount.com",
+  "client_id": "112818284128070338321",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pim-de-workshop-for-gcs-admin%40smooth-command-410508.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

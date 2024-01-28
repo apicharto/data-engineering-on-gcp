@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "03-setting-up-data-lake-using-google-cloud-storage"
+version = "0.1.0"
+description = ""
+authors = ["apicharto <155867145+apicharto@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+google-cloud-storage = "^2.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
