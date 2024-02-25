@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smooth-command-410508",
+  "private_key_id": "a4709e2e3aaf30067176113e7d664c4e9b195789",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC61gWnfZRHWvAA\nPGEyzJz9rrMbYRx1m/4MaJsQ2AvV57o8CWUw20U4FDQrfo8yudUn4n7E6YRF+GJr\nLr4+iK+LJwDB/XlyLhME9dvF1Q18s6AI4TdG6LX+a81xcSkYZTtPQvCxgrPzCo6l\nZvtSFxrBaI6i/CTxkgnJX7UvtQqtzDZV6NNd8qhVwWb/yO34NnH/q+wugXfrPnjb\nTWyfcQ9TH/AQ+nQfk7dbrYZtMNCABa6iFtgP7zGvM11WuspTsi7H1pgrCoZ1irC2\n2VzgxugKxyGldFaWsd/hXtk72AL3NWtUp+OsAxJ1Yqg+0zWH0mhvQtiYBShAPGxv\nNMBAuzkLAgMBAAECggEABZGymnL+VAAsbj1eglaiCVfHQ/YplIHhWTpXAPIHrEkb\nfoWjLAklL44+ndtIZnEunuE7+R+izzkfqeU7S37kiKfReHbXQ2WHMJspgWSf4csy\n5oDcFnOCVUKeXZbLbEw8L9kldo0YUxLJ/LksnZ5NsF0u/0G30jGRtBxzuKfTWSnT\nmmBQVcQt42ZMYKbxuiLAVUt60LIzQvr37Ut5qk9eagWfB4mgv6yw9MtIY/lryGe3\nUGiS5H4cAxsF2r6Q9N7LK9gN1T5X9Z3plbxiMkRYLNyAqClPoy4iAePamq7Dpg8C\nns81MnZCsOmWMkSxRJ8HHc6qZvmVta3YhBQ5fgKQlQKBgQDjojAMbyNYAAxvT/DJ\n2Om25tSThW5MtPvh0go05M3VLfb+og7cJcMdJa4gsCVMjrngnAu7M2txgB0WPXk0\nmNtuHJJXE6FbrYDCFPe/1DoIqQD57gzuIOG19IRcym5X0JC5vkM3o2tlHzFA15Lb\nvtbqYRbUEM8A5qMOk1042InORQKBgQDSHlbbfyfyXSbxJBsv+LWSiDCj7H8XZnSH\n7mkpNgOEZcLqmRjEbTWfUty2GhzpMvNijIMcuL0VRUt87IObLTXBkXyEBHOPCZQ5\nxK2pi1UvbLFyhc6ReqBfY6pkha0+zGWSObM71dFAi47kPpNt/Z/cCZ0mMFRFMbAk\nqqr2s1dHDwKBgQDfrWllbnfeav3NC1JiJUFStnPAGecOfPDdL1VUMFiJ18bS40+S\nx5B4PaRi/nNITR8dNHjalGZJe0gZqIJHSsSj6HNsGR//Q/g3vf7MgrAb/mW1MVOH\nUsw3zXOa8leG9qyft/O44l4PWZ0+SBZI07e/S3PxIismiXtEQU3jI/QVuQKBgQDL\nNMZBjy796PLhYU7dzQUlCosn7W9YHSDz2TFgxrkOETA5nAhk501loUiM4KI3MaxK\nEaQ3Yb6T1KlVzpLUvxtu8ZnfP0LXAaeVWs2s23Bt5guSuy90aIiy1/uRLerHgft1\nOFJLutSdPJrbyFzikddJgQ63QSQuqwgz3c5rujPdJwKBgDe1GqJcwTHqGuJwC3Bu\ndDGROv2U37v718mMYHVgZjpytWDK9jYBjtJR7qW2pwNFOo28iCGRkvzaXYafVWwY\nAUdRrIA+91YTCcGErId23vojQSnUGujWQrj0T/N0w9iF1odp8Kk3r+kqfVraQV+9\nly1ovH8iwXyHDWykuyL12Omi\n-----END PRIVATE KEY-----\n",
+  "client_email": "pim-titanic-load-from-gcs-to@smooth-command-410508.iam.gserviceaccount.com",
+  "client_id": "103558868334031616724",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pim-titanic-load-from-gcs-to%40smooth-command-410508.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
